@@ -1,0 +1,13 @@
+Print at 100% infill with a layer height of 0.08mm with a base layer of 0.16mm
+
+Filaments Used:
+	PLA+ Sunlu Black Transmission Distance: 0.6
+	PLA+ Esun Brown Transmission Distance: 1.5
+	PLA+ Sunlu Red Transmission Distance: 6
+	PLA+ Sunlu Pure Yellow Transmission Distance: 5
+
+Swap Instructions:
+	Start with Black
+	At layer #8 (0.72mm) swap to Brown
+	At layer #9 (0.8mm) swap to Red
+	At layer #13 (1.12mm) swap to Pure Yellow for the rest.

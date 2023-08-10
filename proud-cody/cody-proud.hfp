@@ -1,0 +1,75 @@
+{
+    "base_layer_height": 0.1599999964237213,
+    "border_height": 3,
+    "border_width": 4,
+    "borderless": true,
+    "bright_adjust_zero": false,
+    "depth_mode": 2,
+    "filament_set": [
+        {
+            "Brand": "Sunlu",
+            "Color": "#ffd500",
+            "Name": "Pure Yellow",
+            "Owned": true,
+            "Transmissivity": 5,
+            "Type": "PLA+",
+            "uuid": "{01130000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#d22332",
+            "Name": "Red",
+            "Owned": true,
+            "Transmissivity": 6,
+            "Type": "PLA+",
+            "uuid": "{01100000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "Esun",
+            "Color": "#55351c",
+            "Name": "Brown",
+            "Owned": true,
+            "Transmissivity": 1.5,
+            "Type": "PLA+",
+            "uuid": "{01150000-0000-0000-0000-000000000000}"
+        },
+        {
+            "Brand": "Sunlu",
+            "Color": "#000000",
+            "Name": "Black",
+            "Owned": true,
+            "Transmissivity": 0.6,
+            "Type": "PLA+",
+            "uuid": "{01030000-0000-0000-0000-000000000000}"
+        }
+    ],
+    "full_range": true,
+    "height_in_mm": 200,
+    "image": "C:/Users/thush/3D Objects/HueForge Personal Use/HueForge/Projects/cody-proud.png",
+    "layer_height": 0.07999999821186066,
+    "legacy_luminance": false,
+    "light_intensity": 20,
+    "light_temperature": 1,
+    "luminance_factor": 0,
+    "luminance_method": 2,
+    "luminance_offset": 0,
+    "luminance_offset_max": 100,
+    "luminance_weight": 100,
+    "max_depth": 2,
+    "min_depth": 0.23999999463558197,
+    "min_detail": 0.20000000298023224,
+    "negative": true,
+    "reverse_litho": true,
+    "slider_values": [
+        7,
+        8,
+        12,
+        22
+    ],
+    "smoothing": 5,
+    "srgb_linearize": false,
+    "stl": "C:/Users/thush/3D Objects/HueForge Personal Use/HueForge/Projects/cody-proud_Front_200x200.stl",
+    "transparency": true,
+    "version": "0.5.2",
+    "width_in_mm": 200
+}
